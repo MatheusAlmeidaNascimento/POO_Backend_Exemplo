@@ -1,0 +1,42 @@
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\appsettings.json
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.exe
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.deps.json
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.runtimeconfig.json
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.dll
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\ref\POO Backend Rec3.dll
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.pdb
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.Views.dll
+C:\Users\dev\Desktop\POO Backend Rec3\bin\Debug\net5.0\POO Backend Rec3.Views.pdb
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.RazorAssemblyInfo.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.RazorAssemblyInfo.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\staticwebassets\POO Backend Rec3.StaticWebAssets.Manifest.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\staticwebassets\POO Backend Rec3.StaticWebAssets.xml
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\scopedcss\bundle\POO Backend Rec3.styles.css
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.TagHelpers.input.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.TagHelpers.output.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.RazorCoreGenerate.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.RazorTargetAssemblyInfo.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.RazorTargetAssemblyInfo.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.Views.pdb
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.dll
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\ref\POO Backend Rec3.dll
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.pdb
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.genruntimeconfig.cache
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\POO Backend Rec3.csproj.CopyComplete
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Musico\Index.cshtml.g.cs
+C:\Users\dev\Desktop\POO Backend Rec3\obj\Debug\net5.0\Razor\Views\Musico\MusicoFoda.cshtml.g.cs
